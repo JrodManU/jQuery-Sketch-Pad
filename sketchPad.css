@@ -3,7 +3,7 @@
 }
 .box {
 	float:left;
-	background-color:white;
+	background-color:black;
 }
 .box:hover {
 	box-sizing:border-box;
@@ -27,4 +27,7 @@
 }
 #reset:hover {
 	border-color:blue;
+}
+#styleChoices {
+	text-align:center;
 }
